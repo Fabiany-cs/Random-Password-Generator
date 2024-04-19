@@ -7,6 +7,6 @@
   <li>Generates passwords with a specified length (default is 10 characters).</li>
   <li>Offers a combination of alphanumeric characters and punctuation for robust security.</li>
   <li>Simple and lightweight implementation.</li>
-  <li>Copy and paste the script. Have fun!</li>
+  <li>Copy and paste the script. Have fun! <a href="https://github.com/Fabiany-cs/Random-Password-Generator/blob/main/Script">Script</a></li>
 </ul>
 <img width="289" alt="Screenshot 2024-04-19 at 11 29 52 AM" src="https://github.com/Fabiany-cs/Random-Password-Generator/assets/107880960/4f233dae-9cb1-41e0-8529-1d4a5ecf21bd">
